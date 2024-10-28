@@ -8,3 +8,4 @@ Alguns pontos que seria válido para modificação ao meu ver seriam:
 
 * Utilização de padrão de tranferencia de dados como por exemplo DTO.
 * Criação de testes unitários.
+* Criação de uma documentação de funcionalidades.
